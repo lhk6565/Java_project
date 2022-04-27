@@ -22,7 +22,6 @@ public class AboutMyTeam {
 		System.out.print("통학 여부는 모두 " + commute + "입니다.");
 		
 		scanner.close();
-
 	}
 
 }
